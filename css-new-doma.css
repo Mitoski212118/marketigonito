@@ -1,0 +1,212 @@
+* {
+    box-sizing: border-box;
+
+}
+.header p b{
+    color: white;
+    text-style: 15px;
+}
+body {
+    font-family: Times New Roman, serif;
+    background-image: url('IMG/crna pozadina.jpg');
+    padding: 10px;
+    margin: -1px 30px;
+    /* background: white; */
+}
+
+.header {
+    padding: 20px 25px;
+    text-align: center;
+    background: black;
+
+}
+
+.header h1 {
+
+    background-image: url("IMG/logo gonito novo.png");
+    background-image: no-repeat;
+    width: 473px;
+    height: 105px;
+    margin: auto;
+    padding: 0px;
+}
+.header p {
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+    padding: 1px 91.5px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 129.9px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+/* Left column */
+.leftcolumn {
+    float: left;
+    width: 75%;
+}
+
+/* Right column */
+.rightcolumn {
+    float: left;
+    width: 25%; /*25*/
+    height: 508px;
+    background-color: #EBEDEF;
+    padding-left: 25px; /* 20 */
+    margin-top: 40.3px; /*50.3*/
+
+}
+
+
+.card {
+    background-color: #333;
+    padding:-30px;
+    margin-top: 20px; /* 60 */
+
+}
+.cardss {
+    padding: -40px 10px;
+    margin: 30px 20px;
+    background:;
+    float: left;
+    padding-left: -20px;
+}
+.cards {
+    background-color: #EBEDEF;
+    padding: 15px 15px;
+    margin-top:  40px; /*39.9*/
+
+    width: 99%; /* 99 */
+}
+.cardi {
+    background-color:;
+    padding: 30px 47px;
+    color: black;
+    margin: -10px -40px;
+
+
+}
+.cardi h3{
+    font-size: 24px;
+}
+.cardi p {
+    font-size: 18px;
+    font-family:verdana;
+    color: black;
+
+}
+#fb {
+    text-decoration: none;
+    color:black;
+    background: white;
+
+
+}
+#inst {
+    background: white;
+    text-decoration: none;
+    color: black;
+
+}
+/* Clear floats after the columns */
+.row:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+/* Footer */
+.footer {
+    padding: 3px 0px; /* 30 */
+    text-align: center;
+    height: 54px;
+    background:  #C8C8C8;
+
+    margin-top: 30px;
+
+}
+.footer .h2 {
+    text-decoration: overline;
+}
+
+
+
+@media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+
+.dab {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.skopsko {
+    width: 180px;
+    height: 100px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.vitaminka {
+    width: 180px;
+    height: 100px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.brashno {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.wurthh {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.beorol {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.pestann {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.irkom {
+    width: 180px;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.metal {
+
+}

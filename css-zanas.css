@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+
+}
+.header p b{
+    color: white;
+    text-style: 15px;
+}
+body {
+    font-family:   times, New Roman , serif;
+
+    background-image: url('IMG/crna pozadina.jpg');*/
+    padding: px;
+    padding: 10px;
+
+
+    /* background: white; */
+}
+
+.header {
+    padding: 20px 25px;
+    text-align: center;
+    background: black;
+
+}
+
+.header h1 {
+
+    background-image: url("IMG/logo gonito novo.png");
+    background-image: no-repeat;
+    width: 473px;
+    height: 105px;
+    margin: auto;
+    padding: 0px;
+}
+.header p {
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 20px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+    padding: 1px 91.5px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 129.9px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: grey;
+}
+.footer {
+    padding: 3px 0px; /* 30 */
+    text-align: center;
+    background: #C8C8C8;
+    margin-top: 30px;
+
+}
+.footer .h2 {
+    text-decoration: overline;
+
+}
+.imgs {
+    background-image: url('IMG/gonitooo.jpg');
+    width: 90%; /* 1350 */
+    height: 450px;
+    possition: relative;
+    margin: auto;
+    padding: -20px ;
+    /*float: left; */
+}
+.page {
+    margin: auto;
+    padding: 20px 25px;
+    width:
+}
+.text{
+
+    padding: 50px 10px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Time Roman New;
+    background: ;
+    background-image: url('IMG/marketi_info_pozadina.jpg') ;
+    height: 400px;
+    width: 1400px;
+
+
+}
+p {
+    margin: 0 10 10px;
+    padding: 10px;
+
+}
+
+.text .tex1 {
+
+    margin: -20px 40px;
+        text-align: center;
+}
+.text .tex2 {
+    margin: 70px 40px;
+    text-align: center;
+}
+.text .tex3 {
+    margin: -30px 40px;
+    padding: -60px -60px;
+    text-align: center;
+}

@@ -1,0 +1,304 @@
+* {
+    box-sizing: border-box;
+
+}
+.header p b{
+    color: white;
+    text-style: 15px;
+}
+body {
+    font-family:  Times New Roman , serif;
+    background-image: url('IMG/crna pozadina.jpg');
+     padding: px;
+    padding: 20px;
+    margin: 0px;
+
+     /* background: white; */
+}
+
+.header {
+    padding: 20px 25px;
+    text-align: center;
+    background: black;
+
+}
+
+.header h1 {
+
+    background-image: url("IMG/logo gonito novo.png");
+    background-image: no-repeat;
+    width: 473px; /*473*/
+    height: 105px;
+    margin: auto;
+    padding: 0px;
+}
+.header p {
+    font-size: 24px;
+    letter-spacing: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 30px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+    padding: 1px 91.5px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 129.9px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: grey;
+}
+.footer {
+    padding: 3px 0px; /* 30 */
+    text-align: center;
+    background: #C8C8C8;
+    margin-top: 30px;
+
+}
+.footer .h2 {
+    text-decoration: overline;
+
+}
+.apliciraj #rab {
+    padding: 20px;
+    margin: 20px;
+}
+.namej{
+    padding: 20px 40px;
+    margin: auto;
+    margin-top: 16px;
+    background-image: url('IMG/marketi_info_pozadina.jpg');
+    width: 900px; /*1100px; /* 900px ama ima prob */
+    height: 100px;
+
+}
+
+.name {
+    width: 250px;
+    height: 60px;
+    margin: -4px;
+    padding: -11px;
+}
+.activ{
+    width: 368px;
+    padding: 0px;
+    margin: -11px;
+
+}
+.computer {
+    width: 368px;
+    margin: -11px;
+    padding: 0px;
+}
+.morelanguage {
+    margin: -31px 420px;
+    float: left;
+    padding: -6px -4px;
+    height: 40px;
+}
+.lng {
+    margin: -15px 20px;
+    float: left;
+}
+.education{
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.educations {
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.email {
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.emailo {
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.radioo {
+    margin: -11px -2px;
+    padding: 10px -20px;
+    float: left;
+
+}
+.phone {
+    margin: -20px -2px;
+    padding: 10px -6px;
+    float: left;
+    width: 380px;
+    height: 40px;
+}
+.phonee{
+    height: 40px;
+    margin:  -11px -2px;
+    float: left;
+    padding: 10px -6px;
+    width: 360px;
+
+}
+.hobi {
+    margin: -20px -2px;
+    padding: 10px -6px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.hobis {
+    margin: -11px -2px;
+    padding: 10px -6px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.live {
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.lives {
+    margin: -11px -2px;
+    padding: 10px -6px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.towns {
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.numbers {
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.number {
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.years{
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.year {
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.sur {
+    margin: -20px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+
+}
+.surname {
+    margin: -11px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.names {
+
+    margin: -22px -2px;
+    padding: -10px -20px;
+    float: left;
+    width: 360px;
+    height: 40px;
+
+}
+.name {
+    margin: -11px -2px;
+    padding: -10px -20px;
+
+    float: left;
+    width: 360px;
+    height: 40px;
+}
+.opttions {
+    margin: 6px -2px;
+    padding: -10px;
+    float: left;
+
+}
+.mor {
+    width: 216px;
+    height: 40px;
+}
+.apliciraj p {
+    text-align: center;
+    color: white;
+}
+.kolonakarieras {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.selectfile {
+    margin: -11px -2px;
+    padding: -10px -20px;
+
+    float: left;
+}
+.button {
+    margin: 20px -12px;
+    padding-top: 6px;
+    padding-right: 80px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    font-size: 14px
+}
+.buttons {
+    width: 20px;
+    margin: 20px 290px;
+    /*padding: 60px 140px;*/
+    padding-top: 6px;
+    padding-right: 80px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    font-size: 18px
+
+}

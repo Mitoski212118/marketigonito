@@ -1,0 +1,150 @@
+* {
+    box-sizing: border-box;
+
+}
+.header p b{
+    color: white;
+    text-style: 15px;
+    letter-spacing: 5px;
+}
+body {
+    font-family: , New Roman Times, serif;
+    padding: 10px;
+    background:  WHITE;
+    background-image: url('IMG/crna pozadina.jpg');
+    background-repeat: repeat;
+}
+
+.header {
+    padding: 20px 25px;
+    text-align: center;
+    background: black;
+
+}
+
+.header h1 {
+
+    background-image: url("IMG/logo gonito novo.png");
+    background-image: no-repeat;
+    width: 473px;
+    height: 105px;
+    margin: auto;
+    padding: 0px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 8px 30px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+    padding: 1px 91.5px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 129.9px;
+    text-decoration: none;
+    float: left;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+
+/* Footer */
+.footer {
+    padding: 3px 0px; /* 30 */
+    text-align: center;
+    background: #C8C8C8;
+    margin-top: 910px;
+
+}
+.footer .h2 {
+    text-decoration: overline;
+
+}
+.header p {
+    font-size: 24px;
+}
+/* {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0 ;
+}*/
+
+
+@media screen and (max-width: 400px) {
+    .topnav a {
+        float: none;
+        width: 100%;
+    }
+}
+/* MARKETI CSS */
+.market_info_container {
+    position: relative;
+
+    float: right;
+    width: 935px;
+    margin-right: 260px;
+padding-bottom: 10px;
+
+margin-top: 15px;
+    /* ------ */
+    padding: 15px 15px;
+    padding-top: 5px;
+    /* padding-top: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+*/
+    background-repeat: no-repeat;
+    background-color: grey;
+
+}
+.market_info_container .lokacijagonito {
+
+    margin-top: -120px;
+    margin-right: 12px;
+    padding: 2px;
+    margin: px;
+    float: right;
+    border-line: 0px;
+}
+.market_info_container ul li {
+    background-color: white;
+}
+.market_info_container ul{
+    background: white;
+}
+.element .style {
+    float: right;
+    width: 200px;
+}
+/*.img {
+    border: none;
+    border-top-color: initial;
+    border-top-style: none;
+    border-top-width: initial;
+    border-right-color: initial;
+    border-right-style: none;
+    border-right-width: initial;
+    border-bottom-color: initial;
+    border-bottom-style: none;
+    border-bottom-width: initial;
+    border-left-color: initial;
+    border-left-style: none;
+    border-left-width: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+
+}*/
